@@ -22,3 +22,7 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+
+# Prisma SQLite database files
+prisma/*.db
+prisma/*.db-journal
